@@ -1,7 +1,7 @@
 ---
 id: forever-free
-title: The Forever Free Tier
-sidebar_label: The Forever Free Tier
+title: Gepenged7Fold 
+sidebar_label: Gepenged7Fold 
 slug: /forever-free
 ---
 
